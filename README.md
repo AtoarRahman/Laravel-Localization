@@ -151,6 +151,6 @@ Configure navigation for swiching the language
 </ul>
 ```
 
-## License
+### License
 
 Laravel Localization is an open-sourced laravel package licensed under the MIT license
