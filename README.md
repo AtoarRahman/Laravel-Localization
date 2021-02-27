@@ -1,4 +1,4 @@
-# Laravel Localization
+### Laravel Localization
 
 - <a href="#installation">Installation</a>
 - <a href="#configure-the-locale">Configure The Locale</a>
@@ -10,7 +10,7 @@
 - <a href="#configure-navigation">Configure Navigation</a>
 
 
-## Installation
+### Installation
 
 Install the package via composer: `composer create-project laravel/laravel example-app`
 
