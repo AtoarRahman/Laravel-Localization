@@ -81,16 +81,12 @@ Route::get('/language/{language}',function($language){
 ```
 
 ### Defining Translation Strings
-## Using Short Keys
 
 Typically, translation strings are stored in files within the `resources/lang` directory. Within this directory, there should be a subdirectory for each language supported by your application. This is the approach Laravel uses to manage translation strings for built-in Laravel features such as validation error messages:
 
-/resources
-    /lang
-        /en
-            messages.php
-        /es
-            messages.php
+`resources/lang/en/messages.php`
+`resources/lang/bn/messages.php`
+
 For example. English language files return an array of keyed strings. `resources/lang/en/messages.php`:
 
 ```php
